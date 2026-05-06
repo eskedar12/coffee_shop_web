@@ -2,7 +2,7 @@
 
 A modern, responsive coffee shop website built with TanStack Start, React, and Tailwind CSS.
 
-[Visit Coffee Shop Website](https://coffeeshopwebsite101.netlify.app)
+[Visit Website](https://coffeeshopwebsite101.netlify.app)
 
 ## 🚀 Features
 
@@ -16,14 +16,6 @@ A modern, responsive coffee shop website built with TanStack Start, React, and T
 
 - **Framework:** TanStack Start (React)
 - **Styling:** Tailwind CSS
-- **UI Components:** shadcn/ui
 - **Icons:** Lucide React
 - **Build Tool:** Vite
 - **Language:** TypeScript
-
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/eskedar12/coffee_shop_web.git
-cd coffee_shop_web
